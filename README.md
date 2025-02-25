@@ -33,7 +33,7 @@ yarn add react-monetize
 
 Wrap your app with the `MonetizeProvider` and add your payment pointer.
 
-> You can read how to get one here: https://webmonetization.org/docs/receiving
+> You can read how to get one here: https://webmonetization.org/docs/intro/receiving-payments/
 
 ```javascript
 import { MonetizeProvider } from 'react-monetize';
